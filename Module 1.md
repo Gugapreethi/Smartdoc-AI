@@ -14,7 +14,7 @@ built using Python, LangChain and Groq AI.
 
 AI Email Generator is a simple web application built 
 using Python, LangChain and Groq AI. This project helps 
-users ask questions from any PDF document automatically 
+users ask questions from any PDF document automatically  
 using Artificial Intelligence.
 ##  Features
 - AI-powered PDF Question Answering
