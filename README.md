@@ -1,4 +1,4 @@
-# 🤖 SmartDoc AI Suite
+# SmartDoc AI Suite
 
 SmartDoc AI is an intelligent document analysis platform
 built using Python, LangChain and Groq AI.
@@ -10,7 +10,7 @@ built using Python, LangChain and Groq AI.
 - HuggingFace Embeddings
 - FAISS Vector Store
 
-## ✅ Module 1 - Document QA Bot
+##  Module 1 - Document QA Bot
 
 AI Email Generator is a simple web application built 
 using Python, LangChain and Groq AI. This project helps 
