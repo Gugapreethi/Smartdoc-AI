@@ -1,0 +1,45 @@
+# SmartDoc AI Suite
+
+SmartDoc AI is an intelligent document analysis platform
+built using Python, LangChain and Groq AI.
+
+## Technologies Used
+- Python
+- LangChain
+- Groq AI (LLaMA3)
+- Streamlit
+- PromptTemplate
+- LangChain Chains
+
+## Module 6 - Translator + Tone Changer
+
+Translator is a simple web application built
+using Python, LangChain and Groq AI. This project
+helps users translate any text to multiple languages
+and change the tone of text automatically using
+Artificial Intelligence.
+
+## Features
+- AI-powered Text Translation
+- Support 10 Languages
+- Tone Change Feature
+- Formal, Casual, Professional Tones
+- Translate + Tone Change Together
+- Fast Response using Groq AI
+- Simple and Interactive Interface
+- Beginner-friendly Structure
+
+## Project Modules
+
+### Module 6 - Translator + Tone Changer
+- Enter any text
+- Select target language
+- Select tone style
+- AI translates and changes tone
+
+## Installation
+pip install -r requirements.txt
+
+## Run
+cd module6_translator
+streamlit run streamlit_app.py
