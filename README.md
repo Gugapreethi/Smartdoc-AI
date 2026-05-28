@@ -1,45 +1,67 @@
-# SmartDoc AI Suite
+# 🤖 SmartDoc AI Suite
 
-SmartDoc AI is an intelligent document analysis platform
-built using Python, LangChain and Groq AI.
+SmartDoc AI is an intelligent document analysis
+platform built using Python, LangChain and Groq AI.
 
-## Technologies Used
+## 👩‍💻 Developer
+- Name: Gugapreethi A
+- GitHub: Gugapreethi
+
+## 🛠️ Technologies Used
 - Python
 - LangChain
 - Groq AI (LLaMA3)
+- HuggingFace Embeddings
+- FAISS Vector Store
 - Streamlit
+- BeautifulSoup4
 - Pandas
-- PromptTemplate
 
-## Module 5 - CSV Analyst
+## 📦 All Modules
 
-CSV Analyst is a simple web application built
-using Python, LangChain and Groq AI. This project
-helps users analyze any CSV data automatically
-where the AI answers questions about the data
-and gives insights using Artificial Intelligence.
+### ✅ Module 1 - Document QA Bot
+- Upload any PDF
+- Ask questions about the document
+- AI gives instant answers
 
-## Features
-- AI-powered CSV Data Analysis
-- Upload Any CSV File
-- Data Preview and Statistics
-- Ask Questions in Plain English
-- Total Rows and Columns Info
-- Missing Values Detection
-- Fast Response using Groq AI
-- Beginner-friendly Structure
+### ✅ Module 2 - Web Summarizer
+- Enter any website URL
+- AI summarizes the webpage
+- Multiple summary styles
 
-## Project Modules
+### ✅ Module 3 - Chatbot with Memory
+- Multi-turn conversation
+- Remembers previous messages
+- Clear chat option
 
-### Module 5 - CSV Analyst
+### ✅ Module 4 - Code Review Assistant
+- Paste any code
+- Multiple language support
+- Bug detection and fixes
+
+### ✅ Module 5 - CSV Analyst
 - Upload any CSV file
-- Preview data in table format
-- Ask questions about your data
-- AI gives instant analysis
+- Ask questions in plain English
+- AI powered data analysis
 
-## Installation
+### ✅ Module 6 - Translator
+- Translate text to 10 languages
+- Change tone of any text
+- Formal, Casual, Professional
+
+## ⚙️ Installation
 pip install -r requirements.txt
 
-## Run
-cd module5_csvanalyst
-streamlit run streamlit_app.py
+## 🚀 Run
+streamlit run main_app.py
+
+## 📅 Progress
+
+| Module | Status |
+|--------|--------|
+| Module 1 - Document QA Bot | ✅ Done |
+| Module 2 - Web Summarizer | ✅ Done |
+| Module 3 - Chatbot with Memory | ✅ Done |
+| Module 4 - Code Review Assistant | ✅ Done |
+| Module 5 - CSV Analyst | ✅ Done |
+| Module 6 - Translator | ✅ Done |
